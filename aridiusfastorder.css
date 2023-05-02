@@ -1,0 +1,66 @@
+﻿.fastorder textarea{
+resize: vertical;
+}
+.fastorder{
+max-width: 500px;
+margin: 0 auto;
+background: #fff;
+}
+.fastorder2{
+padding: 15px 25px 15px 25px;
+}
+.name-popup{
+color: #444;
+font-size: 15px;
+line-height: 33px;
+padding: 0 0 0 15px;
+}
+.name-product{
+color: #444;
+font-weight: 500;
+font-size: 26px;
+margin-bottom: 17px;
+}
+.fastorderf{
+border-bottom: 1px solid #F5F5F5;
+}
+.fastorder{
+position: relative;
+background:#FFFFFF!important;
+}
+.formfastorder{
+padding-left: 15px;
+padding-right: 15px;
+}
+.formfastorder .form-group {
+margin-bottom: 1px;
+}
+.btnfast {
+margin: 0 auto;
+display: block;
+}
+.priceall{
+text-align: center;
+}
+.priceold-product{
+color: #868583;
+font-size: 24px;
+font-weight: 600;
+display: inline;
+}
+.price-product{
+color: #f3652a;
+font-size: 18px;
+font-weight: 400;
+text-decoration: line-through;
+}
+.fastorder .mfp-close {
+background: #F0F0F0!important;
+height: 35px!important;
+cursor: pointer !important;
+line-height: 35px!important;
+width: 35px!important;
+}
+.fastorder .mfp-close span {
+color: red!important;
+}

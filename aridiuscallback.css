@@ -1,0 +1,45 @@
+﻿.callback textarea{
+resize: vertical;
+}
+.callback{
+max-width: 500px;
+margin: 0 auto;
+background: #fff;
+}
+.callback2{
+padding: 15px 25px 15px 25px;
+}
+.name-popup{
+color: #444;
+font-size: 15px;
+line-height: 33px;
+padding: 0 0 0 15px;
+}
+.callbackbor{
+border-bottom: 1px solid #F5F5F5;
+}
+.callback{
+position: relative;
+background:#FFFFFF!important;
+}
+.formcallback{
+padding-left: 15px;
+padding-right: 15px;
+}
+.formcallback .form-group {
+margin-bottom: 1px;
+}
+.btnfast {
+margin: 0 auto;
+display: block;
+}
+.callback .mfp-close {
+background: #F0F0F0!important;
+height: 35px!important;
+cursor: pointer !important;
+line-height: 35px!important;
+width: 35px!important;
+}
+.callback .mfp-close span {
+color: red!important;
+}

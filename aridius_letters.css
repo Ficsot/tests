@@ -1,0 +1,16 @@
+.textdanger{
+color: #FFFFFF;
+}
+.textsuccess{
+color: #FFFFFF;
+}
+.mailletters .btn-lg {
+font-size: 12px;
+line-height: 12px;
+padding: 10px;
+}
+.mailletters .input-lg {
+height: 32px;
+line-height: 20px;
+padding: 0 10px;
+}

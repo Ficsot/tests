@@ -1,0 +1,55 @@
+.search-price{
+color: #868583;
+float: left;
+font-size: 14px;
+font-weight: bold;
+}
+.search-price2{
+color: #f3652a;
+font-size: 14px;
+font-weight: 400;
+margin-left: 5px;
+text-decoration: line-through;
+display: inline;
+}
+.search-thumb{
+float: left;
+}
+.search-name{
+color: #868583;
+float: left; 
+font-weight: bold;
+}
+.search-container{
+margin-left: 50px;
+}
+.search-container2{
+padding: 5px;
+}
+.search-container2:hover{
+background: #F7F7F9;
+}
+.search-more{
+margin-left: 50px;
+cursor: pointer;
+}
+.search-all{
+color: #777;
+margin-left: 20px;
+cursor: pointer;
+font-size: 14px;
+}
+.search-all:hover{
+text-decoration: underline;
+color: #ceb478;
+}
+.search-special{
+float: left;
+color: #868583;
+font-size: 17px;
+font-weight: bold;
+margin-left: 5px;
+}
+#search .dropdown-menu{
+min-width: 248px;
+}

@@ -1,0 +1,193 @@
+@media(min-width:992px) {
+.stickersmenu-2lvsale {
+background: #F37A82;
+color: #fff;
+font-size: 10px;
+line-height: 10px;
+padding: 3px 8px;
+position: absolute;
+top: -14px;
+z-index: 100;
+display: block;
+}
+.stickersmenu-2lvsale::after {
+background: #F37A82;
+bottom: -3px;
+content: "";
+height: 8px;
+left: 7px;
+position: absolute;
+transform: rotate(45deg);
+width: 10px;
+z-index: -100;
+}
+.stickersmenu-2lvtop {
+background: #A1C0AC;
+color: #fff;
+font-size: 10px;
+line-height: 10px;
+padding: 3px 8px;
+position: absolute;
+top: -14px;
+z-index: 100;
+display: block;
+}
+.stickersmenu-2lvtop::after {
+background: #A1C0AC;
+bottom: -3px;
+content: "";
+height: 8px;
+left: 7px;
+position: absolute;
+transform: rotate(45deg);
+width: 10px;
+z-index: -100;
+}
+.stickersmenu-2lvnew {
+background: #78A1BA;
+color: #fff;
+font-size: 10px;
+line-height: 10px;
+padding: 3px 8px;
+position: absolute;
+top: -14px;
+z-index: 100;
+display: block;
+}
+.stickersmenu-2lvnew::after {
+background: #78A1BA;
+bottom: -3px;
+content: "";
+height: 8px;
+left: 7px;
+position: absolute;
+transform: rotate(45deg);
+width: 10px;
+z-index: -100;
+}
+.stickersmenu1 {
+background: #78A1BA;
+color: #fff;
+font-size: 12px;
+line-height: 15px;
+padding: 2px 10px;
+position: absolute;
+top: -18px;
+z-index: 100;
+display: block;
+}
+.stickersmenu1::after {
+background: #78A1BA;
+bottom: -3px;
+content: "";
+height: 8px;
+left: 7px;
+position: absolute;
+transform: rotate(45deg);
+width: 10px;
+z-index: -100;
+}
+.stickersmenu2{
+background: #F37A82;
+color: #fff;
+font-size: 12px;
+line-height: 15px;
+padding: 2px 10px;
+position: absolute;
+top: -18px;
+z-index: 100;
+display: block;
+}
+.stickersmenu2::after {
+background: #F37A82 ;
+bottom: -3px;
+content: "";
+height: 8px;
+left: 7px;
+position: absolute;
+transform: rotate(45deg);
+width: 10px;
+z-index: -100;
+}
+.stickersmenu3 {
+background: #A1C0AC;
+color: #fff;
+font-size: 12px;
+line-height: 15px;
+padding: 2px 10px;
+position: absolute;
+top: -18px;
+z-index: 100;
+display: block;
+}
+.stickersmenu3::after {
+background: #A1C0AC;
+bottom: -3px;
+content: "";
+height: 8px;
+left: 7px;
+position: absolute;
+transform: rotate(45deg);
+width: 10px;
+z-index: -100;
+}
+}
+@media(max-width:993px) {
+.stickersmenu1, .stickersmenu-2lvnew{
+background: #78A1BA;
+display: inline!IMPORTANT;
+padding: 3px;
+margin-left: 12px;
+border-radius: 5px;
+font-size: 10px;
+}
+.stickersmenu2, .stickersmenu-2lvsale{
+background: #F37A82;
+display: inline!IMPORTANT;
+padding: 3px;
+margin-left: 12px;
+border-radius: 5px;
+font-size: 10px;
+}
+.stickersmenu3, .stickersmenu-2lvtop{
+background: #A1C0AC;
+display: inline!IMPORTANT;
+padding: 3px;
+margin-left: 12px;
+border-radius: 5px;
+font-size: 10px;
+}
+}
+.stickersmenu1v{
+background: #78A1BA;
+display: inline!IMPORTANT;
+padding: 3px;
+margin-left: 12px;
+border-radius: 5px;
+font-size: 10px;
+color: #fff;
+position: relative;
+top: -2px;
+}
+.stickersmenu2v{
+background: #F37A82;
+display: inline!IMPORTANT;
+padding: 3px;
+margin-left: 12px;
+border-radius: 5px;
+font-size: 10px;
+color: #fff;
+position: relative;
+top: -2px;
+}
+.stickersmenu3v{
+background: #A1C0AC;
+display: inline!IMPORTANT;
+padding: 3px;
+margin-left: 12px;
+border-radius: 5px;
+font-size: 10px;
+color: #fff;
+position: relative;
+top: -2px;
+}
